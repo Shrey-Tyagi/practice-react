@@ -6,7 +6,7 @@ import { ProductListSalesMoreThanQuantity } from './ProductListSalesMoreThanQuan
 import { StartBtn } from './StartBtn';
 import { StationaryItems } from './StationaryItems';
 import { StudentDetails } from './StudentDetails';
-import { products, employees } from '../data';
+import { products, employees } from './data';
 
 export function PractiseSetOne() {
   return (

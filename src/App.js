@@ -1,10 +1,12 @@
 import './App.css';
-import { PractiseSetOne } from './practice_set_1/PractiseSetOne';
+import { PractiseSetTwo } from './practice_set_2/PractiseSetTwo';
+// import { PractiseSetOne } from './practice_set_1/PractiseSetOne';
 
 function App() {
   return (
     <div className="App">
-      <PractiseSetOne />
+      {/* <PractiseSetOne /> */}
+      <PractiseSetTwo />
     </div>
   );
 }
