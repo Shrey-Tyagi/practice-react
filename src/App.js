@@ -1,5 +1,6 @@
 import './App.css';
-import { PractiseSetSeven } from './practise_set_7/PractiseSetSeven';
+import { PracticeSetEightRoutes } from './practise_set_8/PracticeSetEightRoutes';
+// import { PractiseSetSeven } from './practise_set_7/PractiseSetSeven';
 // import { PractiseSetSix } from './practise_set_6/PractiseSetSix';
 // import { PractiseSetFive } from './practise_set_5/PractiseSetFive';
 // import { PractiseSetTwo } from './practise_set_2/PractiseSetTwo';
@@ -14,10 +15,10 @@ function App() {
       <PractiseSetThree /> 
       <PractiseSetFour />
       <PractiseSetFive /> 
-      <PractiseSetSix />*/}
-      <PractiseSetSeven />
+      <PractiseSetSix />
+      <PractiseSetSeven />*/}
+      <PracticeSetEightRoutes />
     </div>
   );
 }
-
 export default App;
